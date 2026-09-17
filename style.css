@@ -20,6 +20,7 @@
         <a href="#pengalaman">Pengalaman</a>
         <a href="#keahlian">Keahlian</a>
         <a href="#pendidikan">Pendidikan</a>
+        <a href="#portofolio">Portofolio</a>
         <a class="nav-cta" href="#kontak">Kontak</a>
       </div>
     </nav>
@@ -32,6 +33,7 @@
         <div class="hero-actions">
           <a class="button button-dark" href="#pengalaman">Lihat pengalaman <span>↗</span></a>
           <a class="button button-accent" href="https://wa.me/6282338949200" target="_blank" rel="noreferrer">WhatsApp</a>
+          <a class="button button-light" href="mailto:mfauzan150606@gmail.com">Email saya</a>
         </div>
       </div>
       <div class="hero-visual reveal">
@@ -51,7 +53,11 @@
       <div class="intro-content">
         <h2>Pelayanan dengan <span>ketelitian</span>, komunikasi, dan tanggung jawab.</h2>
         <p>Lulusan SMK Teknik Konstruksi dan Perumahan dengan pengalaman di bidang hospitality sebagai Front Desk Agent. Terbiasa menangani tamu, administrasi, reservasi, dan operasional OTA. Saya disiplin, mampu bekerja dalam tim maupun mandiri, serta terbuka untuk terus belajar.</p>
-        <div class="stats"><div><strong>2+</strong><span>Tahun pengalaman<br />hospitality</span></div><div><strong>10+</strong><span>Tools & sistem<br />yang dikuasai</span></div><div><strong>3</strong><span>Bidang pengalaman<br />profesional</span></div></div>
+        <div class="stats">
+          <div><strong>2+</strong><span>Tahun pengalaman<br />hospitality</span></div>
+          <div><strong>10+</strong><span>Tools & sistem<br />yang dikuasai</span></div>
+          <div><strong>3</strong><span>Bidang pengalaman<br />profesional</span></div>
+        </div>
       </div>
     </section>
 
@@ -77,11 +83,34 @@
       </div>
     </section>
 
-    <section class="education section" id="pendidikan">
-      <div class="container education-layout"><div class="section-label">04 / PENDIDIKAN</div><div class="education-content"><p class="edu-year">2022 — 2025</p><h2>SMK Negeri 1 Glagah</h2><p class="role">Teknik Konstruksi dan Perumahan</p><div class="achievements"><p>★ Juara kelas selama 3 tahun berturut-turut</p><p>★ Piagam Siswa Berprestasi dalam Bidang Akademik (2025)</p><p>★ Tugas akhir: Perencanaan rumah tipe 58</p><p>★ Uji Praktik Kompetisi bersama tim</p></div><div class="certificates"><span>✦ Sertifikat PKL</span><span>✦ Sertifikat UKK</span></div></div></div>
+    <section class="portfolio section" id="portofolio">
+      <div class="container">
+        <div class="section-label">04 / PORTOFOLIO</div>
+        <div class="portfolio-grid">
+          <article class="portfolio-card reveal">
+            <div class="portfolio-badge">Hospitality</div>
+            <h3>Front Desk Operations</h3>
+            <p>Mengelola guest service, reservasi, dan komunikasi tamu untuk memastikan pengalaman menginap yang nyaman dan efisien.</p>
+          </article>
+          <article class="portfolio-card reveal">
+            <div class="portfolio-badge">Admin</div>
+            <h3>Reservasi & Booking</h3>
+            <p>Menangani pemesanan kamar, pengecekan OTA, update ketersediaan, serta koordinasi kebutuhan tamu secara rapi.</p>
+          </article>
+          <article class="portfolio-card reveal">
+            <div class="portfolio-badge">Technical</div>
+            <h3>Planning & Survey</h3>
+            <p>Membuat gambar teknis, menghitung RAB, dan melakukan survei lokasi proyek irigasi sesuai kebutuhan perencanaan.</p>
+          </article>
+        </div>
+      </div>
     </section>
 
-    <section class="contact section container" id="kontak"><div class="contact-box"><div class="section-label">05 / MARI TERHUBUNG</div><h2>Siap bekerja sama<br /><em>dengan Anda.</em></h2><p>Terbuka untuk peluang kerja dan kolaborasi baru di bidang hospitality, administrasi, maupun bidang terkait.</p><div class="contact-actions"><a class="button button-light" href="mailto:mfauzan150606@gmail.com">Kirim email <span>↗</span></a><a class="button button-whatsapp" href="https://wa.me/6282338949200" target="_blank" rel="noreferrer">WhatsApp</a></div><div class="contact-details"><a href="tel:+6282338949200">+62 823-3894-9200</a><a href="https://linkedin.com/in/muh-fauzan-firdaus/" target="_blank" rel="noreferrer">LinkedIn ↗</a></div></div></section>
+    <section class="education section" id="pendidikan">
+      <div class="container education-layout"><div class="section-label">05 / PENDIDIKAN</div><div class="education-content"><p class="edu-year">2022 — 2025</p><h2>SMK Negeri 1 Glagah</h2><p class="role">Teknik Konstruksi dan Perumahan</p><div class="achievements"><p>★ Juara kelas selama 3 tahun berturut-turut</p><p>★ Piagam Siswa Berprestasi dalam Bidang Akademik (2025)</p><p>★ Tugas akhir: Perencanaan rumah tipe 58</p><p>★ Uji Praktik Kompetisi bersama tim</p></div><div class="certificates"><span>✦ Sertifikat PKL</span><span>✦ Sertifikat UKK</span></div></div></div>
+    </section>
+
+    <section class="contact section container" id="kontak"><div class="contact-box"><div class="section-label">06 / MARI TERHUBUNG</div><h2>Siap bekerja sama<br /><em>dengan Anda.</em></h2><p>Terbuka untuk peluang kerja dan kolaborasi baru di bidang hospitality, administrasi, maupun bidang terkait.</p><div class="contact-actions"><a class="button button-light" href="mailto:mfauzan150606@gmail.com">Kirim email <span>↗</span></a><a class="button button-whatsapp" href="https://wa.me/6282338949200" target="_blank" rel="noreferrer">WhatsApp</a></div><div class="contact-details"><a href="tel:+6282338949200">+62 823-3894-9200</a><a href="https://linkedin.com/in/muh-fauzan-firdaus/" target="_blank" rel="noreferrer">LinkedIn ↗</a></div></div></section>
   </main>
   <footer class="footer"><div class="container"><span>© <span id="year"></span> Muh Fauzan Firdaus</span><span>Designed with purpose · Bali, Indonesia</span></div></footer>
   <script src="script.js"></script>
