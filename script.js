@@ -358,7 +358,7 @@ img { display: block; max-width: 100%; }
   margin-top: 45px;
 }
 .skill-intro { grid-row: span 2; padding-right: 25px; }
-.skill-card, .portfolio-card {
+.skill-card, .portfolio-card, .highlight-card {
   min-height: 250px;
   padding: 30px;
   border: 1px solid var(--line);
@@ -366,7 +366,7 @@ img { display: block; max-width: 100%; }
   background: #fff;
   transition: .25s;
 }
-.skill-card:hover, .portfolio-card:hover {
+.skill-card:hover, .portfolio-card:hover, .highlight-card:hover {
   border-color: var(--orange);
   transform: translateY(-6px);
   box-shadow: 0 18px 35px rgba(20,34,31,.08);
@@ -389,6 +389,29 @@ img { display: block; max-width: 100%; }
 }
 .language strong { font-size: 14px; }
 .language span { color: var(--orange); font-size: 11px; }
+
+.highlights {
+  background: linear-gradient(180deg, #f6f4f0 0%, #f3efe7 100%);
+}
+.highlights-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 40px;
+}
+.icon {
+  display: inline-grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: rgba(223,107,59,.12);
+  color: var(--orange);
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+.highlight-card h3 { margin: 0 0 10px; font-size: 24px; }
+.highlight-card p { margin: 0; color: var(--muted); }
 
 .portfolio { background: #f1eee7; }
 .portfolio-grid {
@@ -522,9 +545,9 @@ img { display: block; max-width: 100%; }
   .section-heading { display: block; margin-bottom: 45px; }
   .section-heading p { margin-top: 22px; }
   .timeline-item { grid-template-columns: 1fr; gap: 10px; }
-  .skills-grid, .portfolio-grid { display: block; }
+  .skills-grid, .portfolio-grid, .highlights-grid { display: block; }
   .skill-intro { padding: 0 0 28px; }
-  .skill-card, .portfolio-card { margin-bottom: 15px; }
+  .skill-card, .portfolio-card, .highlight-card { margin-bottom: 15px; }
   .education h2 { font-size: 38px; }
   .certificates { flex-direction: column; gap: 8px; }
   .contact { padding: 70px 0; }

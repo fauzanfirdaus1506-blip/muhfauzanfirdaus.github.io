@@ -19,8 +19,8 @@
         <a href="#tentang">Tentang</a>
         <a href="#pengalaman">Pengalaman</a>
         <a href="#keahlian">Keahlian</a>
+        <a href="#unggulan">Unggulan</a>
         <a href="#portofolio">Portofolio</a>
-        <a href="#pendidikan">Pendidikan</a>
         <a class="nav-cta" href="#kontak">Kontak</a>
       </div>
     </nav>
@@ -101,8 +101,8 @@
               <h3>Sans Borobudur Homestay</h3>
               <p class="role">Front Desk Agent</p>
               <ul>
-                <li>Menangani proses check-in, check-out, dan kebutuhan tamu sesuai standar operasional.</li>
-                <li>Menangani administrasi tamu, menjawab telepon, serta memberikan informasi fasilitas.</li>
+                <li>Menangani check-in, check-out, dan administrasi tamu sesuai standar operasional.</li>
+                <li>Menangani telepon, informasi fasilitas, dan reservasi tambahan.</li>
                 <li>Mengelola reservasi melalui sistem RedDoorz serta memantau ketersediaan kamar.</li>
                 <li>Melakukan pencatatan dan pembukuan transaksi tamu secara rutin dan akurat.</li>
               </ul>
@@ -168,9 +168,32 @@
       </div>
     </section>
 
+    <section class="highlights section" id="unggulan">
+      <div class="container">
+        <div class="section-label">04 / MENGAPA MEMILIH SAYA</div>
+        <div class="highlights-grid reveal">
+          <article class="highlight-card">
+            <div class="icon">01</div>
+            <h3>Profesional & Rapi</h3>
+            <p>Memiliki sikap kerja yang disiplin, rapi, dan berorientasi pada SOP untuk menjaga kualitas pelayanan.</p>
+          </article>
+          <article class="highlight-card">
+            <div class="icon">02</div>
+            <h3>Komunikatif</h3>
+            <p>Terampil berkomunikasi dengan tamu dan rekan kerja untuk menciptakan hubungan yang positif dan efektif.</p>
+          </article>
+          <article class="highlight-card">
+            <div class="icon">03</div>
+            <h3>Adaptif</h3>
+            <p>Mampu menyesuaikan diri dengan sistem digital, perubahan tugas, dan kebutuhan operasional yang cepat.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <section class="portfolio section" id="portofolio">
       <div class="container">
-        <div class="section-label">04 / PORTOFOLIO</div>
+        <div class="section-label">05 / PORTOFOLIO</div>
         <div class="portfolio-grid">
           <article class="portfolio-card reveal">
             <div class="portfolio-badge">Hospitality</div>
@@ -193,7 +216,7 @@
 
     <section class="education section" id="pendidikan">
       <div class="container education-layout">
-        <div class="section-label">05 / PENDIDIKAN</div>
+        <div class="section-label">06 / PENDIDIKAN</div>
         <div class="education-content">
           <p class="edu-year">2022 — 2025</p>
           <h2>SMK Negeri 1 Glagah</h2>
@@ -214,7 +237,7 @@
 
     <section class="contact section container" id="kontak">
       <div class="contact-box">
-        <div class="section-label">06 / MARI TERHUBUNG</div>
+        <div class="section-label">07 / MARI TERHUBUNG</div>
         <h2>Siap bekerja sama<br /><em>dengan Anda.</em></h2>
         <p>Terbuka untuk peluang kerja dan kolaborasi baru di bidang hospitality, administrasi, maupun bidang terkait.</p>
         <div class="contact-actions">
